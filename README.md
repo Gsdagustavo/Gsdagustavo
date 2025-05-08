@@ -39,14 +39,14 @@
 
 - 📧 Email: gugadanielalvez@email.com  
 - 💼 LinkedIn: [linkedin.com/in/gustavodaniel](https://www.linkedin.com/in/gustavo-daniel-b00756279)  
-- 💻 GitHub: [github.com/Gsdasustavo](https://github.com/Gsdasustavo)
+- 💻 GitHub: [github.com/Gsdagustavo](https://github.com/Gsdagustavo)
 
 ---
 
 ## 📈 GitHub Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gsdasustavo&show_icons=true&theme=radical&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsdasustavo&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gsdagustavo&show_icons=true&theme=radical&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsdagustavo&layout=compact&theme=radical)
 
 ---
 
