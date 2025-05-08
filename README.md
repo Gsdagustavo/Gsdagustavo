@@ -43,4 +43,11 @@
 
 ---
 
+## 📈 GitHub Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gsdasustavo&show_icons=true&theme=radical&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsdasustavo&layout=compact&theme=radical)
+
+---
+
 ⭐ *Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e projetos.*
